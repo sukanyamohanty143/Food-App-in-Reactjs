@@ -1,0 +1,90 @@
+body{
+  background-color: #2D2013;
+}
+.img{
+  width: 15vw;
+  height: 25vh;
+}
+.mainbody{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+.displayfood{
+  margin-top: 3%;
+  text-align: center;
+  margin-right: 30%;
+  color: #D57D1F;
+}
+.category{
+  color: white;
+  font-size: 50%;
+}
+.mealName{
+  margin-top: -5%;
+}
+.mealPrice{
+  margin-top: -10%;
+}
+.navbar{
+  width: 99vw;
+  height: 15vh;
+  background-color: #23180D;
+  margin: 0px;
+  padding: 0px;
+}
+
+.invoice{
+position: relative;
+left: 49%;
+width: 8vw;
+height: 6vh;
+border: none;
+padding: 7px 13px;
+background-color: rgb(206, 36, 64);
+
+}
+img{
+width: 20vw;
+height: 10vh;
+position: relative;
+left: 10%;
+margin-top: 1%;
+}
+.home{
+background-color: rgb(206, 36, 64);
+position: relative;
+left: 47%;
+margin-top: -5%;
+width: 6vw;
+height: 6vh;
+border: none;
+padding: 7px 13px;
+}
+.body{
+  width: 95vw;
+  height: 60vh;
+  color: white;
+  margin: 0px 11px;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about{
+  margin-top: -2%;
+  font-size: 80%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about1{
+  font-size: 85%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+hr{
+  width: 85vw;
+  background-color: white;
+}
+.detilas{
+  display: inline;
+  font-size: 85%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
